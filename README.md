@@ -1,6 +1,6 @@
 # Magento2 Top3 Widget
 
-This module will create a block with top seller products.
+This module will create a block with top seller products. 
 
 
 ## Composer Installation
