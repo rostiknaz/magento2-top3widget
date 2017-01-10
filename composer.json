@@ -1,0 +1,23 @@
+{
+    "name": "rostiknaz/magento2-top3widget",
+    "description": "Created block with top products on storefront",
+    "type": "magento2-module",
+    "version": "dev-master",
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Rostiknaz\\Top3Widget\\": ""
+        }
+    },
+    "require": {
+        "magento/magento-composer-installer": "*",
+        "php": "~5.5.0|~5.6.0|~7.0.0"
+    },
+    "authors":[
+        {
+            "name": "Rostyslav Nazymko"
+        }
+    ]
+}
