@@ -3,14 +3,7 @@
 This module will create a block with top seller products. 
 
 
-## Composer Installation
-
-```
-  "require": {
-    "rostiknaz/magento2-top3widget": "dev-master",
-  },
-```
-### Install the module
+### Installation.
 To install the module, use the following steps:
 
 1.	Log in to your Magento 2 server as a user with privileges to write to the Magento 2 file system or <a href="http://devdocs.magento.com/guides/v1.0/install-gde/install/prepare-install.html#install-update-depend-apache">switch to the web server user</a>.
