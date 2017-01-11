@@ -1,6 +1,6 @@
 {
     "name": "rostiknaz/magento2-top3widget",
-    "description": "Created block with top products on storefront",
+    "description": "Create block with top products on storefront",
     "type": "magento2-module",
     "version": "dev-master",
     "autoload": {
