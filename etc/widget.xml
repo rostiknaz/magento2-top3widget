@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widgets xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Widget:etc/widget.xsd">
+    <widget id="rostiknaz_top3products" class="Rostiknaz\Top3Widget\Block\Product\Top3Products">
+        <label translate="true">Top3 Products List</label>
+        <description>Extended Catalog Products List</description>
+        <parameters>
+            <parameter name="title" xsi:type="text" required="false" visible="true">
+                <label translate="true">Title</label>
+                <value>Top3 products:</value>
+            </parameter>
+            <parameter name="products_number" xsi:type="text" required="true" visible="true">
+                <label translate="true">Number of Products to Display</label>
+                <value>3</value>
+            </parameter>
+        </parameters>
+    </widget>
+</widgets>
